@@ -1,0 +1,29 @@
+{
+  "superheros": [
+    {
+      "name": "Flash",
+      "power": "Speed Run",
+      "url": "https://m.media-amazon.com/images/M/MV5BNTM4YThiMzktMDRlNi00NzAyLWI1YmQtNTdkMTNiN2Q0NzU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "Super Man",
+      "power": "the powers of fligh-powerful.",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
+    },
+    {
+      "name": "Thor",
+      "power": "Superhuman",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQbuKL7NfxTMy1wUymb2tu25NONgb7TU_NE-KOzWF9UfMU5rRz"
+    },
+    {
+      "name": "Hulk",
+      "power": "Incredible strength",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmp1rFpGLbPnfH6P_IlBcZyXa72_IIMeunYiZ8UEfvAkD0t-sa"
+    },
+    {
+      "name": "Vemon",
+      "power": "SuperHuman",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ"
+    }
+  ]
+}
